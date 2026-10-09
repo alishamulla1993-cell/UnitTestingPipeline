@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Apiunittesting/Apiunittesting.csproj" Id="04d5dcf0-4905-43c9-88ce-2000d815c85b" />
+  <Project Path="CoreApiDemo/CoreApiDemo.csproj" />
+</Solution>
